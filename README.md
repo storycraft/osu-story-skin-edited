@@ -12,6 +12,7 @@
 * - Shige Seoul (16-9) - Seouless
 * Megumin v1.2
 * Skin2 v2.0.1
+* Cookiezi 22.x 2017-08-10
 * -+Seouless'+v7+16-9 - Seouless
 * Seoul+ shige trail new new - Seouless
 * Vaxei(ryyushi,[+Exo+],Charizard915
