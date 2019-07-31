@@ -1,6 +1,6 @@
 # storycraft's osu! skin
 
-## skin used (27)
+## skin used (30)
 
 * SameSkinButNoRingHitCirclesWeirdName - shigetora
 * Chitanda - Angelsim
@@ -13,6 +13,7 @@
 * Megumin v1.2
 * Skin2 v2.0.1
 * Cookiezi 22.x 2017-08-10
+* Cookiezi 30 2018-06-11
 * -+Seouless'+v7+16-9 - Seouless
 * Seoul+ shige trail new new - Seouless
 * Vaxei(ryyushi,[+Exo+],Charizard915
@@ -30,7 +31,10 @@
 * Seoul++ 16-9_therockzsg_edit
 * idke 1.1
 * Latte's Mix Skin (Current)
+* OSU! Lazer 2018.406.0 by DP05
+* FlyingTuna 2018-03-18 Selyu v2.3
 
-## site used (1)
+## site used (2)
 
 * OsuSkinGenerator
+* Material Palatte
