@@ -1,7 +1,8 @@
 # storycraft's osu! skin
 
-## skin used (30)
+## skin used (31)
 
+* -        # WhiteCat (1.0) 『CK』 #-
 * SameSkinButNoRingHitCirclesWeirdName - shigetora
 * Chitanda - Angelsim
 * Clear Skin Ultra 2.4
