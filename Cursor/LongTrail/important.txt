@@ -1,1 +1,0 @@
-use 2x cursor size for smooth trail
