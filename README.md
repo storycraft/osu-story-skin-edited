@@ -1,7 +1,6 @@
 # storycraft's osu! skin
 
-## skin used (31)
-
+## skin used (34)
 * `-        # WhiteCat (1.0) 『CK』 #-`
 * `-         《CK》 WhiteCat 2.1 ~ new`
 * `SameSkinButNoRingHitCirclesWeirdName - shigetora`
@@ -35,8 +34,11 @@
 * `Latte's Mix Skin (Current)`
 * `OSU! Lazer 2018.406.0 by DP05`
 * `FlyingTuna 2018-03-18 Selyu v2.3`
+* `- Ayaka Skin v4.4`
+* `Rafis 2018-03-26 HDDT`
+* `- - - Kita Chan Daisuki - - -`
+* `- Mya-Nee Girl And Her Friends by [Dotory]`
 
 ## site used (2)
-
 * OsuSkinGenerator
 * Material Palatte
