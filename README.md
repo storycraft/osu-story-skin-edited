@@ -1,6 +1,6 @@
 # storycraft's osu! skin
 
-## skin used (34)
+## skin used (35)
 * `-        # WhiteCat (1.0) 『CK』 #-`
 * `-         《CK》 WhiteCat 2.1 ~ new`
 * `SameSkinButNoRingHitCirclesWeirdName - shigetora`
@@ -38,6 +38,7 @@
 * `Rafis 2018-03-26 HDDT`
 * `- - - Kita Chan Daisuki - - -`
 * `- Mya-Nee Girl And Her Friends by [Dotory]`
+* `Default JM edit (Final)`
 
 ## site used (2)
 * OsuSkinGenerator
